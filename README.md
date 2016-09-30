@@ -18,6 +18,8 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 # Articles
 
+* [Introduction to Atomist Editors](https://medium.com/the-composition/software-that-writes-and-evolves-software-953578a6fc36#.abvq9g980) - The fundamental differentiation provided by Atomist over previous project generation approaches.
+
 # References
 
 # Guides
