@@ -2,7 +2,7 @@
 
 A curated list of Atomist articles, references, guides, courses, books, videos and presentations
 
-Contributions most welcome.
+Contributions most welcome. See (https://github.com/sindresorhus/awesome) for contributions guidelines.
 
 ![Atomist](https://pbs.twimg.com/profile_images/708279517899563008/FcOUbYXB.jpg)
 
