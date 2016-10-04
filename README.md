@@ -49,9 +49,9 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 # Templates
 
-## Clojure
+* (Atomist Project Templates)[https://github.com/atomist-project-templates] - Python, Java and Clojure templates.
 
-* [Compojure API Sample Project](https://github.com/atomist-project-templates/compojure-api-sample) - Opinionated sample Compojure API project, using Components and Midje
+## Clojure
 
 ## Java
 
