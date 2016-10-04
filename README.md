@@ -16,7 +16,8 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 6. [Videos](#videos)
 7. [Courses](#courses)
 8. [Books](#books)
-9. [Misc](#misc)
+9. [Templates](#templates)
+10. [Misc](#misc)
 
 # Articles
 
@@ -45,6 +46,18 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 # Courses
 
 # Books
+
+# Templates
+
+## Clojure
+
+* [Compojure API Sample Project](https://github.com/atomist-project-templates/compojure-api-sample) - Opinionated sample Compojure API project, using Components and Midje
+
+## Java
+
+## Python
+
+## Scala
 
 # Misc
 
