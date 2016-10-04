@@ -26,6 +26,8 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 # Code
 
+* [HelloWorld Microservices with Atomist](https://github.com/atomist-bot) - atomist-bot commits linking to HelloWorld Microservice examples using SpringBoot (for now). 
+
 # Videos
 
 * ["The Clockwork Gardener: Growing an Elm App With Templates" by Jessica Kerr](https://youtu.be/jJ4e6cIBgYM?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd) - Jessica Kerr steps through life alongside her PR flinging, code generating buddy Atomist starting with ChatOps and progressing to CLI. 
