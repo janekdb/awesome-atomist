@@ -29,7 +29,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 # References
 
-* [Atomist Reference](http://docs.atomist.com/reference-docs/) - Atomist Reference: The Atomist Bot, tomist Project Template Overview, Authoring Atomist Project Editors and Reviewers with the Atomist DSL, Systems that Atomist Currently Supports
+* [Atomist Reference](http://docs.atomist.com/reference-docs/) - Atomist Reference: The Atomist Bot, Atomist Project Template Overview, Authoring Atomist Project Editors and Reviewers with the Atomist DSL, Systems that Atomist Currently Supports.
 
 # Guides
 
