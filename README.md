@@ -9,16 +9,21 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 # Contents
 
 1. [Articles](#articles)
-2. [References](#references)
-3. [Guides](#guides)
-4. [Code](#code)
-5. [Videos](#videos)
-6. [Courses](#courses)
-7. [Misc](#misc)
+2. [Community](#community)
+3. [References](#references)
+4. [Guides](#guides)
+5. [Code](#code)
+6. [Videos](#videos)
+7. [Courses](#courses)
+8. [Misc](#misc)
 
 # Articles
 
 * [Introduction to Atomist Editors](https://medium.com/the-composition/software-that-writes-and-evolves-software-953578a6fc36#.abvq9g980) - The fundamental differentiation provided by Atomist over previous project generation approaches.
+
+# Community
+
+* [Slack: Atomist Community](https://atomist-community.slack.com/) - Slack for Atomist Community
 
 # References
 
