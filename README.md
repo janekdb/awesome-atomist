@@ -49,7 +49,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 # Templates
 
-* (Atomist Project Templates)[https://github.com/atomist-project-templates] - Python, Java and Clojure templates.
+* [Atomist Project Templates](https://github.com/atomist-project-templates) - Python, Java and Clojure templates.
 
 ## Clojure
 
