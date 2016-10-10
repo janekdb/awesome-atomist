@@ -49,6 +49,10 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 # Books
 
+* [Atomist in Action - Manning](https://www.manning.com/books/atomist-in-action) - In anticipation
+* [Professional Atomist - Wrox](http://www.wrox.com/WileyCDA/Section/id-WROX_SEARCH_RESULT.html?query=Professional%20Atomist) - In anticipation
+* [Learning Atomist - O'Reilly](https://ssearch.oreilly.com/?q=learning+atomist) - In anticipation
+
 # Templates
 
 * [Atomist Project Templates](https://github.com/atomist-project-templates) - Python, Java and Clojure templates.
