@@ -1,4 +1,6 @@
 
+# This Month In Atomist - 2016 October
+
 ## News from the [Atomist Slack channels](https://atomist-community.slack.com)
 
 ### Less Privilege
