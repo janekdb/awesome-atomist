@@ -27,6 +27,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 # Community
 
 * [Slack: Atomist Community](https://atomist-community.slack.com/) - Slack for Atomist Community
+* [This Month in Atomist](this-month-in-atomist/this-month-in-atomist-2016-10.md) - News and chat snippets curated from various sources including the Atomist Slack channels.
 
 # References
 
