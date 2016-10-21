@@ -28,6 +28,8 @@ Additional workflows are being catered for. To quote David Dooling
 
 > The flow for creating and publishing editors/generators is part of the command-line interface which we will be releasing soon. 
 
+### JavaScript Editors Shimmering on the Horizon
 
+[Rug Lang](https://atomist-community.slack.com/messages/rug-lang) saw a flurry of suggestions for approaches to parsing JavaScript as this next language starts to attract the attention of the Atomist team. SNOBOL anyone?
 
 
