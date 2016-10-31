@@ -39,3 +39,7 @@ James Carnegie continued to push forward the level of Atomist support for Clojur
 > Hey all. I've started working on some more Clojure support in rug! Previously I published a generator for a very opinionated project (https://github.com/atomist-project-templates/compojure-api-sample), so now I'm looking at how we can build up useful clojure projects based on a minimal base project, then using editors to add/change stuff. Here's a start: https://github.com/atomist-project-templates/simple-lein-project
 
 The conversation continues on https://atomist-community.slack.com/messages/rug-clojure
+
+### Python Ripples
+
+In an interesting dialog Omer, Sylvain and others start to position Atomist within the existing set of Python toolings. Themes include how Atomist is different, how it overlaps and what workflows make sense. This raises an interesting question: Which language is tooling-poor in the areas addressed by Atomist?
