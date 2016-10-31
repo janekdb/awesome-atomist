@@ -46,4 +46,4 @@ In an interesting dialog Omer, Sylvain and others start to position Atomist with
 
 ### Swift & Rust
 
-In a declaration of good intent channels were added for (Rust)[https://atomist-community.slack.com/messages/rug-rust] and (Swift)[https://atomist-community.slack.com/messages/rug-swift]
+In a declaration of good intent channels were added for [Rust](https://atomist-community.slack.com/messages/rug-rust) and [Swift](https://atomist-community.slack.com/messages/rug-swift)
