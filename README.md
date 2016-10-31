@@ -62,6 +62,9 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 ## Clojure
 
+* [Simple Lein Proejct] (https://github.com/atomist-project-templates/simple-lein-project) - Clojure project generator & example editor
+* [Compojure API Sample] (https://github.com/atomist-project-templates/compojure-api-sample) - Clojure Compojure API project generator
+
 ## Java
 
 ## Python
