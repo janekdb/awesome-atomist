@@ -32,4 +32,10 @@ Additional workflows are being catered for. To quote David Dooling
 
 [Rug Lang](https://atomist-community.slack.com/messages/rug-lang) saw a flurry of suggestions for approaches to parsing JavaScript as this next language starts to attract the attention of the Atomist team. SNOBOL anyone?
 
+### Clojure Interest
 
+James Carnegie continued to push forward the level of Atomist support for Clojure with a elevated level of ambition,
+
+> Hey all. I've started working on some more Clojure support in rug! Previously I published a generator for a very opinionated project (https://github.com/atomist-project-templates/compojure-api-sample), so now I'm looking at how we can build up useful clojure projects based on a minimal base project, then using editors to add/change stuff. Here's a start: https://github.com/atomist-project-templates/simple-lein-project
+
+The conversation continues on https://atomist-community.slack.com/messages/rug-clojure
