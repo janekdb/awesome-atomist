@@ -43,3 +43,7 @@ The conversation continues on https://atomist-community.slack.com/messages/rug-c
 ### Python Ripples
 
 In an interesting dialog Omer, Sylvain and others start to position Atomist within the existing set of Python toolings. Themes include how Atomist is different, how it overlaps and what workflows make sense. This raises an interesting question: Which language is tooling-poor in the areas addressed by Atomist?
+
+### Swift & Rust
+
+In a declaration of good intent channels were added for (Rust)[https://atomist-community.slack.com/messages/rug-rust] and (Swift)[https://atomist-community.slack.com/messages/rug-swift]
