@@ -54,6 +54,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
   * Atomist lists it's 54 editors, then adds a Docker file to the SpringBoot project.
   
 Super cool to see the workflow all within Slack with history.
+* [Atomist YouTube Channel](https://www.youtube.com/channel/UCvKTtZtPh_MHkQJuAgvzKOA/videos)
 
 # Courses
 
