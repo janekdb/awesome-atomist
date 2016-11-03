@@ -47,6 +47,12 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 * ["The Clockwork Gardener: Growing an Elm App With Templates" by Jessica Kerr](https://youtu.be/jJ4e6cIBgYM?list=PLglJM3BYAMPH2zuz1nbKHQyeawE4SN0Cd) - Jessica Kerr steps through life alongside her PR flinging, code generating buddy Atomist starting with ChatOps and progressing to CLI. 
 * [JAX London 2016: Interview with Russ Miles - Rapid overview of Rug](https://youtu.be/S_E77jz0yCg) - 10 minute Rug Language overview with Russ Miles at JAX London 2016. Awesome because convincing case that a _Rug_ can actually tie things together. Maybe.
+* [Atomist Bot Demo](https://www.youtube.com/watch?v=B_x43nPoDH4) - 10 minute Atomist Bot demo showing interaction via Slack channel.
+ * The Atomist Bot gets authorized via OAuth, shows status, executes a generator prompting for parameters, creates a compojure-service PR on GitHub project.
+ * The demo shows how to list generators.
+  * Atomist then is instructed to create a SpringBoot project.
+  * Atomist lists it's 54 editors, then adds a Docker file to the SpringBoot project.
+Super cool to see the workflow all within Slack.
 
 # Courses
 
