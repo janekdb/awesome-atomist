@@ -52,7 +52,8 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
  * The demo shows how to list generators.
   * Atomist then is instructed to create a SpringBoot project.
   * Atomist lists it's 54 editors, then adds a Docker file to the SpringBoot project.
-Super cool to see the workflow all within Slack.
+  
+Super cool to see the workflow all within Slack with history.
 
 # Courses
 
