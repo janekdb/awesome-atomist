@@ -15,3 +15,7 @@ Kicking off the November proceedings was Neil Stevenson with the creation of the
 The Atomist team announced the open sourcing of the  Go GoKit Rug project Generator with an accompanying Docker Editor: https://github.com/atomist-project-templates/gokit-rest-service
 
 Are you going to go to Go?
+
+### Bot Community Intergation Channel Sees Action
+
+https://atomist-community.slack.com/messages/bot-demo saw an uptick in Atomist project creation activity. This surfaces an issue in an editor which the Atomist team picked up. Let the productization games begin!
