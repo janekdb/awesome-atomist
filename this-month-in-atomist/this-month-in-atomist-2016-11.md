@@ -19,3 +19,7 @@ Are you going to go to Go?
 ### Bot Community Intergation Channel Sees Action
 
 https://atomist-community.slack.com/messages/bot-demo saw an uptick in Atomist project creation activity. This surfaced an editor issue which the Atomist team picked up. Let the productization games begin!
+
+### Atomism of the day: No Worries
+
+![Atomism of the day](atomism-of-the-day-1.png)
