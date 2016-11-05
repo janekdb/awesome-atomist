@@ -22,4 +22,4 @@ https://atomist-community.slack.com/messages/bot-demo saw an uptick in Atomist p
 
 ### Atomism of the day: No Worries
 
-![Atomism of the day](atomism-of-the-day-1.png)
+![Atomism of the day](images/atomism-of-the-day-1.png)
