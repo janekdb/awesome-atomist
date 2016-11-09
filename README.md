@@ -23,12 +23,12 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 * [Introduction to Atomist Editors](https://medium.com/the-composition/software-that-writes-and-evolves-software-953578a6fc36#.abvq9g980) - The fundamental differentiation provided by Atomist over previous project generation approaches.
 * [Evolving Projects Using Atomist Editors](https://medium.com/the-composition/evolving-projects-using-atomist-editors-fd3b1f057c86#.7i0nx3env) - Continuing the series started in *Introduction to Atomist Editors* this post steps through the mechanics of creating a Spring Boot project with one editor action and then running a second editor to bring in Neo. The article also dives down into the structure of Rug types which are used to create new Atomist editors.
+* [Updating Multiple Projects using Atomist Executors] (https://medium.com/the-composition/understand-automate-collaborate-1b5695ecb724#.8ffgnmr1n)
 * [BDD with Rug](https://medium.com/the-composition/bdd-with-rug-371e85d7a1a9#.p2feulni0) - This soup to nuts account of the process to create a new editor with test scenarios introduces the use the Rug Test DSL.
 
 # Community
 
 * [Slack: Atomist Community](https://atomist-community.slack.com/) - Slack for Atomist Community
-* [Join The Atomist Slack Community](https://join.atomist.com/) - Start here if you need to join the Atomist Slack Community
 * [This Month in Atomist](this-month-in-atomist/this-month-in-atomist-2016-10.md) - News and chat snippets curated from various sources including the Atomist Slack channels.
 
 # References
