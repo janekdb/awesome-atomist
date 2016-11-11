@@ -14,10 +14,11 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 4. [Guides](#guides)
 5. [Code](#code)
 6. [Videos](#videos)
-7. [Courses](#courses)
-8. [Books](#books)
-9. [Templates](#templates)
-10. [Misc](#misc)
+7. [Presentations](#presentations)
+8. [Courses](#courses)
+9. [Books](#books)
+10. [Templates](#templates)
+11. [Misc](#misc)
 
 # Articles
 
@@ -57,6 +58,10 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
   
 Super cool to see the workflow all within Slack with history.
 * [Atomist YouTube Channel](https://www.youtube.com/channel/UCvKTtZtPh_MHkQJuAgvzKOA/videos)
+
+# Presentations
+
+* [Fries and a ChatOps with JackieBigShots](varia/tea-and-a-chatops-with-jackiebigshots/full-atomist-chatops-session.md) - Step by step request and response microservice creation and Dockerization modification from Atomist Slack team.
 
 # Courses
 
