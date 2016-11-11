@@ -62,6 +62,7 @@ Super cool to see the workflow all within Slack with history.
 # Presentations
 
 * [Fries and a ChatOps with JackieBigShots](varia/tea-and-a-chatops-with-jackiebigshots/full-atomist-chatops-session.md) - Step by step request and response microservice creation and Dockerization modification from Atomist Slack team.
+* [Musical Theatre Style take on Microservice Challenge/Atomist Solution scenarios](https://skillsmatter.com/skillscasts/7870-keynote-making-sense-of-microservices-maximizing-development-productivity-and-minimizing-mistakes) - Great if you missed the Edinburgh Fringe this year. Requires login to SkillsMatter.
 
 # Courses
 
