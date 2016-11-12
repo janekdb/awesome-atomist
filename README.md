@@ -10,15 +10,16 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 1. [Articles](#articles)
 2. [Community](#community)
-3. [References](#references)
-4. [Guides](#guides)
-5. [Code](#code)
-6. [Videos](#videos)
-7. [Presentations](#presentations)
-8. [Courses](#courses)
-9. [Books](#books)
-10. [Templates](#templates)
-11. [Misc](#misc)
+3. [Meetups](#meetups)
+4. [References](#references)
+5. [Guides](#guides)
+6. [Code](#code)
+7. [Videos](#videos)
+8. [Presentations](#presentations)
+9. [Courses](#courses)
+10. [Books](#books)
+11. [Templates](#templates)
+12. [Misc](#misc)
 
 # Articles
 
@@ -32,6 +33,11 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 * [Slack: Atomist Community](https://atomist-community.slack.com/) - Slack for Atomist Community
 * [Join The Atomist Slack Community](https://join.atomist.com/) - Start here if you need to join the Atomist Slack Community
 * [This Month in Atomist](this-month-in-atomist/this-month-in-atomist-2016-10.md) - News and chat snippets curated from various sources including the Atomist Slack channels.
+
+# Meetups
+
+## United Kingdom
+* [Rug RUG, The London Atomist Rug User Group](https://www.meetup.com/Rug-Rug-The-London-Atomist-Rug-User-Group/) - The Original Atomist Meetup
 
 # References
 
