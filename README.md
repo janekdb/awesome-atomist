@@ -32,7 +32,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 * [Slack: Atomist Community](https://atomist-community.slack.com/) - Slack for Atomist Community
 * [Join The Atomist Slack Community](https://join.atomist.com/) - Start here if you need to join the Atomist Slack Community
-* [This Month in Atomist](this-month-in-atomist/this-month-in-atomist-2016-10.md) - News and chat snippets curated from various sources including the Atomist Slack channels.
+* [This Month in Atomist](this-month-in-atomist) - News and chat snippets curated from various sources including the Atomist Slack channels.
 
 # Meetups
 
