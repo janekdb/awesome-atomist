@@ -19,7 +19,8 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 9. [Courses](#courses)
 10. [Books](#books)
 11. [Templates](#templates)
-12. [Misc](#misc)
+12. [Tooling](#tooling)
+13. [Misc](#misc)
 
 # Articles
 
@@ -92,6 +93,10 @@ Super cool to see the workflow all within Slack with history.
 ## Python
 
 ## Scala
+
+## Tooling
+
+Editor plugins, IDE plugins and the like.
 
 # Misc
 
