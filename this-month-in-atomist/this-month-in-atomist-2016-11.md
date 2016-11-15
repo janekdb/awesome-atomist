@@ -27,3 +27,13 @@ https://atomist-community.slack.com/messages/bot-demo saw an uptick in Atomist p
 ### Music Maestro Please!
 
 The Atomist show-and-tell tour continues with music and story at SkillsMatter: https://skillsmatter.com/skillscasts/7870-keynote-making-sense-of-microservices-maximizing-development-productivity-and-minimizing-mistakes. Bring your own tambourine.
+
+### Editor Plugins
+
+Talk turned to editor plugins for Rug Lang. The story so far,
+
+What | Status
+----|----
+Language grammar plugin for Atom|Exists
+Emacs mode|Exists
+VIM plugin|Not yet
