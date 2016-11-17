@@ -37,3 +37,8 @@ What | Status
 Language grammar plugin for Atom|Exists
 Emacs mode|Exists
 VIM plugin|Not yet
+
+### CLI Interest Buillds
+
+The release of the CLI continues to attract interest with Sven planning to introduce Atomist on a FedEx Day.
+> https://atomist-community.slack.com/archives/rug-cli/p1479286662000061
