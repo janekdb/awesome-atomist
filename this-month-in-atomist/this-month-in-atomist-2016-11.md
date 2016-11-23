@@ -42,3 +42,7 @@ VIM plugin|Not yet
 
 The release of the CLI continues to attract interest with Sven planning to introduce Atomist on a FedEx Day.
 > https://atomist-community.slack.com/archives/rug-cli/p1479286662000061
+
+### Erlang Comes Ringing
+
+Interest in Atomist for Erlang broke out recently with Erlangly comments from Zach.
