@@ -95,6 +95,10 @@ Super cool to see the workflow all within Slack with history.
 
 ## Scala
 
+## TypeScript
+
+* [NPM packages by atomist](https://www.npmjs.com/~atomist) - TypeScript model for Atomist editors, generators etc
+
 ## Tooling
 
 Editor plugins, IDE plugins and the like.
