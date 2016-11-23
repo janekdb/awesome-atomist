@@ -65,6 +65,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
   
 Super cool to see the workflow all within Slack with history.
 * [Atomist YouTube Channel](https://www.youtube.com/channel/UCvKTtZtPh_MHkQJuAgvzKOA/videos)
+* [Jessica Kerr - Web Programming without Errors, and Coding without Typing](https://youtu.be/yFN8Y0Aoflw) - From CodeMesh 2016
 
 # Presentations
 
