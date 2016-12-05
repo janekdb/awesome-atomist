@@ -20,7 +20,8 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 10. [Books](#books)
 11. [Templates](#templates)
 12. [Tooling](#tooling)
-13. [Misc](#misc)
+13. [Resources](#resources)
+14. [Misc](#misc)
 
 # Articles
 
@@ -86,8 +87,8 @@ Super cool to see the workflow all within Slack with history.
 
 ## Clojure
 
-* [Simple Lein Project] (https://github.com/atomist-project-templates/simple-lein-project) - Clojure project generator & example editor
-* [Compojure API Sample] (https://github.com/atomist-project-templates/compojure-api-sample) - Clojure Compojure API project generator
+* [Simple Lein Project](https://github.com/atomist-project-templates/simple-lein-project) - Clojure project generator & example editor
+* [Compojure API Sample](https://github.com/atomist-project-templates/compojure-api-sample) - Clojure Compojure API project generator
 
 ## Java
 
@@ -98,6 +99,10 @@ Super cool to see the workflow all within Slack with history.
 ## TypeScript
 
 * [NPM packages by atomist](https://www.npmjs.com/~atomist) - TypeScript model for Atomist editors, generators etc
+
+## Resources
+
+* [Atomist in Lauchpad](https://launchpad.net/~atomisthq)
 
 ## Tooling
 
