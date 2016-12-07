@@ -6,3 +6,6 @@
 
 Work continues on the K8 editor: https://github.com/atomist/rug/pull/15
 
+### Using rug-cli with Proxies
+
+https://atomist-community.slack.com/messages/rug-cli/ saw discussions around using Artifactory as a proxy to Central by configuring `cli.yml`
