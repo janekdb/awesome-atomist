@@ -103,7 +103,11 @@ Super cool to see the workflow all within Slack with history.
 
 ## Travis CI
 
-* [Atomist 'travis-editors'](https://github.com/atomist-rugs/travis-editors) -  Rug archive with editors that enable and configure a Travis CI build for a GitHub repository
+* [Atomist Travis Editors](https://github.com/atomist-rugs/travis-editors) -  Rug archive with editors that enable and configure a Travis CI build for a GitHub repository
+
+## 
+
+* [Atomist Licensing Editors](https://github.com/atomist-rugs/licensing-editors) - Manage licensing and copyright notices with Atomist.  Add licence from selection of 25+ licence templates including AFL-3.0, GPL-3.0, and all the usual suspects
 
 ## Resources
 
