@@ -18,7 +18,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 8. [Presentations](#presentations)
 9. [Courses](#courses)
 10. [Books](#books)
-11. [Templates](#templates)
+11. [Templates and Editors](#templates-and-editors)
 12. [Tooling](#tooling)
 13. [Resources](#resources)
 14. [Misc](#misc)
@@ -82,7 +82,7 @@ Super cool to see the workflow all within Slack with history.
 * [Professional Atomist - Wrox](http://www.wrox.com/WileyCDA/Section/id-WROX_SEARCH_RESULT.html?query=Professional%20Atomist) - In anticipation
 * [Learning Atomist - O'Reilly](https://ssearch.oreilly.com/?q=learning+atomist) - In anticipation
 
-# Templates
+# Templates and Editors
 
 * [Atomist Project Templates](https://github.com/atomist-project-templates) - Python, Java and Clojure templates.
 
@@ -100,6 +100,10 @@ Super cool to see the workflow all within Slack with history.
 ## TypeScript
 
 * [NPM packages by atomist](https://www.npmjs.com/~atomist) - TypeScript model for Atomist editors, generators etc
+
+## Travis CI
+
+* [Atomist 'travis-editors'](https://github.com/atomist-rugs/travis-editors) -  Rug archive with editors that enable and configure a Travis CI build for a GitHub repository
 
 ## Resources
 
