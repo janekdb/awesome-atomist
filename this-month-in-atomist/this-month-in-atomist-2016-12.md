@@ -15,3 +15,9 @@ https://atomist-community.slack.com/messages/rug-cli/ saw discussions around usi
 ![Atomism of the day](images/atomism-of-the-day-2.png)
 
 https://atomist-community.slack.com/archives/rug-elm/p1480925068000002
+
+### .NET
+
+Afif enquired about support for .NET. A parallel was drawn with support for Elm with the caveat that parsing of .NET assemblies lies in the future via microgrammer support.
+
+https://atomist-community.slack.com/archives/general/p1481528235000042
