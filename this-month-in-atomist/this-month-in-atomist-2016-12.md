@@ -21,3 +21,10 @@ https://atomist-community.slack.com/archives/rug-elm/p1480925068000002
 Afif enquired about support for .NET. A parallel was drawn with support for Elm with the caveat that parsing of .NET assemblies lies in the future via microgrammer support.
 
 https://atomist-community.slack.com/archives/general/p1481528235000042
+
+### Scala 2.12.1 - Not just yet
+
+Atomist breifly adopted Scala 2.12.1 and then reverted following unantipicated consequences.
+
+Upgraded to Scala 2.12.1: https://github.com/atomist/rug-compiler/commit/9b648ed435543fdf4cd7bc5554a097c7d2375ea0
+Downgraded to Scala 2.11.8: https://github.com/atomist/rug-compiler/commit/eb2704d9724a333a57719e2574c97801ab9a55cd
