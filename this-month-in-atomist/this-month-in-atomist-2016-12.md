@@ -31,6 +31,6 @@ Downgraded to Scala 2.11.8: https://github.com/atomist/rug-compiler/commit/eb270
 
 ### Testing Multiple Edits
 
-Discussion picked up around testing the outcome of apply an editor twice with one proposed use being idempotence: https://atomist-community.slack.com/archives/general/p1481898858000067
+Discussion picked up around testing the outcome of applying an editor twice with one proposed use being idempotence: https://atomist-community.slack.com/archives/general/p1481898858000067
 
 Jessica is working on Atomist Rug idempotence for Elm: https://twitter.com/jessitron/status/809812239582642176
