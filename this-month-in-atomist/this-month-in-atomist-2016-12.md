@@ -29,6 +29,8 @@ Atomist briefly adopted Scala 2.12.1 and then reverted following unantipicated c
 Upgraded to Scala 2.12.1: https://github.com/atomist/rug-compiler/commit/9b648ed435543fdf4cd7bc5554a097c7d2375ea0
 Downgraded to Scala 2.11.8: https://github.com/atomist/rug-compiler/commit/eb2704d9724a333a57719e2574c97801ab9a55cd
 
-### Editing Multiple Edits
+### Testing Multiple Edits
 
 Discussion picked up around testing the outcome of apply an editor twice with one proposed use being idempotence: https://atomist-community.slack.com/archives/general/p1481898858000067
+
+Jessica is working on Atomist Rug idempotence for Elm: https://twitter.com/jessitron/status/809812239582642176
