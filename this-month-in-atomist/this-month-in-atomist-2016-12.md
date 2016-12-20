@@ -34,3 +34,21 @@ Downgraded to Scala 2.11.8: https://github.com/atomist/rug-compiler/commit/eb270
 Discussion picked up around testing the outcome of applying an editor twice with one proposed use being idempotence: https://atomist-community.slack.com/archives/general/p1481898858000067
 
 Jessica is working on Atomist Rug idempotence for Elm: https://twitter.com/jessitron/status/809812239582642176
+
+### Not My Assertion
+
+Rug assertions can now have a negative sense. For example,
+
+```
+editor Baby
+
+precondition No
+
+with elm.module e
+  do updateImport from "Carrot" to "Kiwifruit"
+
+predicate No
+
+with project p
+  when not fileExists "Banana.elm"
+ ```
