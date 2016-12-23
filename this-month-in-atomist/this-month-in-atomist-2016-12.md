@@ -53,6 +53,6 @@ with project p
   when not fileExists "Banana.elm"
  ```
  
- ### Python Buildout
+### Python Buildout
  
- Godefroid sparked some interest in a Rug for Python Buildout: https://atomist-community.slack.com/archives/general/p1482492008000129
+Godefroid sparked some interest in a Rug for Python Buildout: https://atomist-community.slack.com/archives/general/p1482492008000129
