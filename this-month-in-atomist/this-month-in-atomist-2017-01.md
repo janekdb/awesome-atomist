@@ -11,3 +11,9 @@ It's a sure herald of project maturity when "second-stage" requirements start to
 Mention of Rug-as-a-service as a route to supporting BitBucket and GitLab surfaced on this channel: https://atomist-community.slack.com/archives/general/p1483649226000196
 
 _Button all the things!_
+
+### Let's get interactive
+
+Signs of an interactive mode for Rug editors appeared with this commit: https://github.com/atomist/rug-cli/compare/0c5cbebd9ded...299f7feb7918
+
+     command_options+=( -I --interactive )
