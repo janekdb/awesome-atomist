@@ -17,3 +17,7 @@ _Button all the things!_
 Signs of an interactive mode for Rug editors appeared with this commit: https://github.com/atomist/rug-cli/compare/0c5cbebd9ded...299f7feb7918
 
      command_options+=( -I --interactive )
+
+### @jessitron joins Atomist Team
+
+Jessica Kerr joined the Atomist to a loud round of applause.
