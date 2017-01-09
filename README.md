@@ -35,6 +35,15 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 # Community
 
 * [Slack: Atomist Community](https://atomist-community.slack.com/) - Slack for Atomist Community
+  * [Clojure](https://atomist-community.slack.com/messages/rug-clojure/) - Atomist support for Clojure
+  * [Elm](https://atomist-community.slack.com/messages/rug-elm/) - Atomist support for Elm
+  * [Go](https://atomist-community.slack.com/messages/rug-go/) - Atomist support for Go
+  * [Groovy](https://atomist-community.slack.com/messages/rug-groovy/) - Atomist support for Groovy
+  * [Python](https://atomist-community.slack.com/messages/rug-python/) - Atomist support for Python
+  * [Rust](https://atomist-community.slack.com/messages/rug-rust/) - Atomist support for Rust
+  * [Swift](https://atomist-community.slack.com/messages/rug-swift/) - Atomist support for Swift
+  * [TypeScript](https://atomist-community.slack.com/messages/typescript/) - Atomist support for TypeScript
+  
 * [Join The Atomist Slack Community](https://join.atomist.com/) - Start here if you need to join the Atomist Slack Community
 * [This Month in Atomist](this-month-in-atomist) - News and chat snippets curated from various sources including the Atomist Slack channels.
 
