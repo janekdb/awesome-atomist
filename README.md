@@ -114,6 +114,7 @@ Super cool to see the workflow all within Slack with history.
 ## Travis CI
 
 * [Atomist Travis Editors](https://github.com/atomist-rugs/travis-editors) -  Rug archive with editors that enable and configure a Travis CI build for a GitHub repository
+  * [Automating Travis CI configuration with Atomist](https://medium.com/the-composition/automating-infrastructure-with-atomist-c15262f985ab#.nln6abkee) - Paints a vision of pushing forward the current frontier of infrastructure-as-code automation and illustrates this vision with Travis CI configuration.
 
 ## Licencing
 
