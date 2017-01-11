@@ -24,7 +24,7 @@ Jessica Kerr joined the Atomist to a loud round of applause.
 
 ### Rug Syntax Highlighting Plugin for Atom waiting in the wings
 
-Christian notes the existence of a not Atom syntax plugin which nonetheless provides decent syntax highlighting: 
+Christian notes the existence of a not great Atom syntax plugin which nonetheless provides decent syntax highlighting: 
 https://atomist-community.slack.com/archives/general/p1484121170000234
 
 Release effort being reviewed by Mr D!
