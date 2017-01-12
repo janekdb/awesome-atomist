@@ -37,4 +37,4 @@ Thomas noted,
 But things could be easier
 > A formal definition of a language never hurts though
 
-Backlogged! https://atomist-community.slack.com/messages/general/details/
+Backlogged! https://atomist-community.slack.com/archives/general/p1484216364000290
