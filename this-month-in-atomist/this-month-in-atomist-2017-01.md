@@ -28,3 +28,12 @@ Christian notes the existence of a not great Atom syntax plugin which nonetheles
 https://atomist-community.slack.com/archives/general/p1484121170000234
 
 Release effort being reviewed by Mr D!
+
+### Hunting the Formal Grammar for Rug
+
+Thomas noted,
+> I am thinking of writing an IntelliJ plugin for the Rug DSL
+but things could be easier
+> A formal definition of a language never hurts though
+
+Backlogged! https://atomist-community.slack.com/messages/general/details/
