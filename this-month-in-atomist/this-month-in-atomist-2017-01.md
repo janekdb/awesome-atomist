@@ -33,7 +33,8 @@ Release effort being reviewed by Mr D!
 
 Thomas noted,
 > I am thinking of writing an IntelliJ plugin for the Rug DSL
-but things could be easier
+
+But things could be easier
 > A formal definition of a language never hurts though
 
 Backlogged! https://atomist-community.slack.com/messages/general/details/
