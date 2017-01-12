@@ -127,7 +127,19 @@ Super cool to see the workflow all within Slack with history.
 
 ## Tooling
 
-Editor plugins, IDE plugins and the like.
+### Editor and IDE plugins, IDE plugins
+
+|Name | Description | Further Information and Link
+|-----|-------------|-----------------------------
+|IntelliJ IDEA|TODO: If you are reading this and have information please provide an edit to this page
+|Atom|TODO: If you are reading this and have information please provide an edit to this page
+|Eclipse|TODO: If you are reading this and have information please provide an edit to this page
+|Emacs|TODO: If you are reading this and have information please provide an edit to this page
+|VI|TODO: If you are reading this and have information please provide an edit to this page
+|CodeMirror|TODO: If you are reading this and have information please provide an edit to this page
+
+
+### Other Tools
 
 # Misc
 
