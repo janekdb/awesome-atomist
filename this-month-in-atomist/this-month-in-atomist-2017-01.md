@@ -38,3 +38,7 @@ But things could be easier
 > A formal definition of a language never hurts though
 
 Backlogged! https://atomist-community.slack.com/archives/general/p1484216364000290
+
+### Atomism of the day: If that's what you want that's what you'll get
+
+![Atomism of the day](images/atomism-of-the-day-3-fries-with-that.png)
