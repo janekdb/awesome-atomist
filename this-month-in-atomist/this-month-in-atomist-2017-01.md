@@ -42,3 +42,8 @@ Backlogged! https://atomist-community.slack.com/archives/general/p14842163640002
 ### Atomism of the day: If that's what you want that's what you'll get
 
 ![Atomism of the day](images/atomism-of-the-day-3-fries-with-that.png)
+
+### The Ever Increasing Pace of News: This Week In Atomist
+
+Need a faster news cycle? Help out with the nascent *This Week In Atomist*
+> https://atomist-community.slack.com/messages/thisweekinatomist/details/
