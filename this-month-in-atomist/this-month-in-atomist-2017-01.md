@@ -47,3 +47,11 @@ Backlogged! https://atomist-community.slack.com/archives/general/p14842163640002
 
 Need a faster news cycle? Help out with the nascent *This Week In Atomist*
 > https://atomist-community.slack.com/messages/thisweekinatomist/details/
+
+### Deeper GitHub Integration
+
+Integration with GitHub issues has started to appear in Slack along with options to release,
+![Deeper GitHub Integration](images/atomist-github-issue-integration.png)
+
+
+
