@@ -57,5 +57,5 @@ Integration with GitHub issues has started to appear in Slack along with options
 
 ![Travis CI Slack Integration](images/atomist-build.gif)
 
-
+Very cool!
 
