@@ -53,5 +53,9 @@ Need a faster news cycle? Help out with the nascent *This Week In Atomist*
 Integration with GitHub issues has started to appear in Slack along with options to release,
 ![Deeper GitHub Integration](images/atomist-github-issue-integration.png)
 
+### Travis CI Slack Integration
+
+![Travis CI Slack Integration](images/atomist-build.gif)
+
 
 
