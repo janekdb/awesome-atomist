@@ -16,7 +16,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 6. [Code](#code)
 7. [Videos](#videos)
 8. [Presentations](#presentations)
-9. [Courses](#courses)
+9. [Courses and Tutorials](#courses-and-tutorials)
 10. [Books](#books)
 11. [Templates and Editors](#templates-and-editors)
 12. [Tooling](#tooling)
@@ -85,7 +85,10 @@ Super cool to see the workflow all within Slack with history.
 * [Fries and a ChatOps with JackieBigShots](varia/tea-and-a-chatops-with-jackiebigshots/full-atomist-chatops-session.md) - Step by step request and response microservice creation and Dockerization modification from Atomist Slack team.
 * [Musical Theatre Style take on Microservice Challenge/Atomist Solution scenarios](https://skillsmatter.com/skillscasts/7870-keynote-making-sense-of-microservices-maximizing-development-productivity-and-minimizing-mistakes) - Great if you missed the Edinburgh Fringe this year. Requires login to SkillsMatter.
 
-# Courses
+# Courses and Tutorials
+
+* [Rug Koans](https://github.com/atomist-rugs/rug-koans-editors/blob/master/koans.md) - Self-directed learning samples using Rug tests to explore and learn Rug and its environment
+  * Feedback channel: https://atomist-community.slack.com/messages/rug-koans/details/
 
 # Books
 
