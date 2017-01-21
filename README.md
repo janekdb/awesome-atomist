@@ -25,12 +25,18 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 # Articles
 
-* [The Composition](https://medium.com/the-composition) - Articles from the Atomist Team covering Rugs etc
+* [The Composition](https://medium.com/the-composition) - Articles from the Atomist Team covering Rugs, etc.
   * [Introduction to Atomist Editors](https://medium.com/the-composition/software-that-writes-and-evolves-software-953578a6fc36#.abvq9g980) - The fundamental differentiation provided by Atomist over previous project generation approaches.
   * [Evolving Projects Using Atomist Editors](https://medium.com/the-composition/evolving-projects-using-atomist-editors-fd3b1f057c86#.7i0nx3env) - Continuing the series started in *Introduction to Atomist Editors* this post steps through the mechanics of creating a Spring Boot project with one editor action and then running a second editor to bring in Neo. The article also dives down into the structure of Rug types which are used to create new Atomist editors.
   * [Updating Multiple Projects using Atomist Executors] (https://medium.com/the-composition/understand-automate-collaborate-1b5695ecb724#.8ffgnmr1n)
   * [BDD with Rug](https://medium.com/the-composition/bdd-with-rug-371e85d7a1a9#.p2feulni0) - This soup to nuts account of the process to create a new editor with test scenarios introduces the use the Rug Test DSL.
+  * [Rugs At the Bazaar: Open Source @Atomist](https://medium.com/the-composition/rugs-at-the-bazaar-open-source-atomist-6c23de4abe74#.gbpargwux) - Listing and discussion of Rug-related open source projects.
+  * [Automating Infrastructure with Atomist](https://medium.com/the-composition/automating-infrastructure-with-atomist-c15262f985ab#.my2iax5ra) - Configure [Travis CI](https://travis-ci.org) for your repo with one click.
+  * [Atomist: Meet TypeScript](https://medium.com/the-composition/atomist-meet-typescript-2f2e16251d4f#.6sy4v0zd6) - Introduction of writing Rugs using [TypeScript](https://www.typescriptlang.org/).
+  * [Automating Our Development Flow With Atomist](https://medium.com/the-composition/automating-our-development-flow-with-atomist-6b0ec73348b6#.t02n4y28d) - Introduction to automating development flows, e.g., build, test, & deploy, with Rug.
+  * [Rugs on the Command Line](https://medium.com/the-composition/rugs-on-the-command-line-eca46492db09#.ogvgfrxvf) - Tutorial for using the [Rug CLI](https://github.com/atomist/rug-cli) to run Rugs.
 * [Using Rug with Elm](http://blog.jessitron.com/2016/12/using-rug-with-elm.html) - Using Rugs to automate the language tutorial process, in this case [Elm](http://elm-lang.org/).
+* [Today’s Rug: maven executable jar](http://blog.jessitron.com/2017/01/todays-rug-maven-executable-jar.html) - Quick walk through of creating your own Rug editor to solve an infrequent problem once and for all.
 
 # Community
 
@@ -43,7 +49,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
   * [Rust](https://atomist-community.slack.com/messages/rug-rust/) - Atomist support for Rust
   * [Swift](https://atomist-community.slack.com/messages/rug-swift/) - Atomist support for Swift
   * [TypeScript](https://atomist-community.slack.com/messages/typescript/) - Atomist support for TypeScript
-  
+
 * [Join The Atomist Slack Community](https://join.atomist.com/) - Start here if you need to join the Atomist Slack Community
 * [This Month in Atomist](this-month-in-atomist) - News and chat snippets curated from various sources including the Atomist Slack channels.
 * [Atomist Enthusiasts](https://www.linkedin.com/groups/12014097) - LinkedIn Atomist User Group
