@@ -53,6 +53,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 * [Join The Atomist Slack Community](https://join.atomist.com/) - Start here if you need to join the Atomist Slack Community
 * [This Month in Atomist](this-month-in-atomist) - News and chat snippets curated from various sources including the Atomist Slack channels.
 * [Atomist Enthusiasts](https://www.linkedin.com/groups/12014097) - LinkedIn Atomist User Group
+* [Atomist StackOverflow](http://stackoverflow.com/search?q=atomist) - Atomist questions on StackOverflow
 
 # Meetups
 
