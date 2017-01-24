@@ -59,3 +59,10 @@ Integration with GitHub issues has started to appear in Slack along with options
 
 Very cool!
 
+### Completely Contrived Atomist StackOverflow post.
+
+Almost as bad as product placement in summer blockbusters! Shameless!
+
+![Travis CI Slack Integration](images/atomist-on-stackoverflow.png)
+
+http://stackoverflow.com/search?q=atomist
