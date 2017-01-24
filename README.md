@@ -118,6 +118,9 @@ Super cool to see the workflow all within Slack with history.
 
 ## Scala
 
+* [AddScalaPom. BringInScalatest](https://github.com/jessitron/scattered-rugs#addscalapom) - Example Rugs related to Scala
+  * [Scala Maven Rugs](https://medium.com/@jessitron/scala-maven-rugs-97c8659d6832#.4vpgtw1j6) - Context for the above project
+
 ## TypeScript
 
 * [NPM packages by atomist](https://www.npmjs.com/~atomist) - TypeScript model for Atomist editors, generators etc
