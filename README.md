@@ -153,6 +153,7 @@ TODO: If you are reading this and have information please provide an edit to thi
 |Emacs|Early Stages|Emacs major mode for the Rug language|https://github.com/atomist/rug-emacs-mode
 |VI|-|
 |CodeMirror|-|
+|Visual Code Studio|-|
 
 ## Repository Support
 
