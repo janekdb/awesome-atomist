@@ -143,24 +143,29 @@ Super cool to see the workflow all within Slack with history.
 
 ### Editor and IDE plugins, IDE plugins
 
+TODO: If you are reading this and have information please provide an edit to this table
+
 |Name | Status | Description |Further Information and Link
 |-----|-------------|--------|----------------------------
-|IntelliJ IDEA|-|TODO: If you are reading this and have information please provide an edit to this page
-|Atom|-|TODO: If you are reading this and have information please provide an edit to this page
-|Eclipse|-|TODO: If you are reading this and have information please provide an edit to this page
+|IntelliJ IDEA|-|
+|Atom|-|
+|Eclipse|-|
 |Emacs|Early Stages|Emacs major mode for the Rug language|https://github.com/atomist/rug-emacs-mode
-|VI|-|TODO: If you are reading this and have information please provide an edit to this page
-|CodeMirror|-|TODO: If you are reading this and have information please provide an edit to this page
+|VI|-|
+|CodeMirror|-|
 
 ## Repository Support
+
+TODO: If you are reading this and have information please provide an edit to this table
 
 |Name | Status | Description |Further Information and Link
 |-----|-------------|--------|----------------------------
 |GitHub|Generally Available
-|GitHub Enterprise|???|TODO: If you are reading this and have information please provide an edit to this page
-|Bitbucket|Investigating|TODO: If you are reading this and have information please provide an edit to this page
-|TeamCity|Mentioned on Slack|TODO: If you are reading this and have information please provide an edit to this page
-
+|GitHub Enterprise|???|
+|Bitbucket|Investigating|
+|TeamCity|Mentioned on Slack|https://atomist-community.slack.com/archives/announce/p1485342173000135
+|GitLab|???
+|Team Services|???
 
 ### Other Tools
 
