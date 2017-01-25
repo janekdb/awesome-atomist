@@ -19,9 +19,10 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 9. [Courses and Tutorials](#courses-and-tutorials)
 10. [Books](#books)
 11. [Templates and Editors](#templates-and-editors)
-12. [Tooling](#tooling)
-13. [Resources](#resources)
-14. [Misc](#misc)
+12. [Repository Support](#repository-support)
+13. [Tooling](#tooling)
+14. [Resources](#resources)
+15. [Misc](#misc)
 
 # Articles
 
@@ -150,6 +151,15 @@ Super cool to see the workflow all within Slack with history.
 |Emacs|Early Stages|Emacs major mode for the Rug language|https://github.com/atomist/rug-emacs-mode
 |VI|-|TODO: If you are reading this and have information please provide an edit to this page
 |CodeMirror|-|TODO: If you are reading this and have information please provide an edit to this page
+
+## Repository Support
+
+|Name | Status | Description |Further Information and Link
+|-----|-------------|--------|----------------------------
+|GitHub|Generally Available
+|GitHub Enterprise|???|TODO: If you are reading this and have information please provide an edit to this page
+|Bitbucket|Investigating|TODO: If you are reading this and have information please provide an edit to this page
+|TeamCity|Mentioned on Slack|TODO: If you are reading this and have information please provide an edit to this page
 
 
 ### Other Tools
