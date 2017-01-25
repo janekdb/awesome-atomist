@@ -148,7 +148,7 @@ TODO: If you are reading this and have information please provide an edit to thi
 |Name | Status | Description |Further Information and Link
 |-----|-------------|--------|----------------------------
 |IntelliJ IDEA|-|
-|Atom|-|
+|Atom|Pre-release|Mentioned on Slack: https://atomist-community.slack.com/archives/general/p1485340978000655
 |Eclipse|-|
 |Emacs|Early Stages|Emacs major mode for the Rug language|https://github.com/atomist/rug-emacs-mode
 |VI|-|
