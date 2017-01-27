@@ -73,3 +73,6 @@ Docs are up if you need a more scripted approach than Rug DSL
 
 http://docs.atomist.com/quick-starts/rug-typescript/
 
+### Atomism of the day: Why, why, oh why????
+
+![Atomism of the day](images/atomism-of-the-day-3.png)
