@@ -38,6 +38,8 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
   * [Rugs on the Command Line](https://medium.com/the-composition/rugs-on-the-command-line-eca46492db09#.ogvgfrxvf) - Tutorial for using the [Rug CLI](https://github.com/atomist/rug-cli) to run Rugs.
 * [Using Rug with Elm](http://blog.jessitron.com/2016/12/using-rug-with-elm.html) - Using Rugs to automate the language tutorial process, in this case [Elm](http://elm-lang.org/).
 * [Today’s Rug: maven executable jar](http://blog.jessitron.com/2017/01/todays-rug-maven-executable-jar.html) - Quick walk through of creating your own Rug editor to solve an infrequent problem once and for all.
+* [Evolucionando Código con Rug](http://blog.eddumelendez.me/2017/01/evolucionando-codigo-rug/) - Code that writes code
+  * [English Translation](https://translate.google.co.uk/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fblog.eddumelendez.me%2F2017%2F01%2Fevolucionando-codigo-rug%2F&edit-text=&act=url)
 
 # Community
 
