@@ -151,6 +151,7 @@ TODO: If you are reading this and have information please provide an edit to thi
 |-----|-------------|--------|----------------------------
 |IntelliJ IDEA|-|
 |Atom|Pre-release|Mentioned on Slack: https://atomist-community.slack.com/archives/general/p1485340978000655
+|Atom|-|An Atom plugin for running Elm Atomist Rugs|https://github.com/mbylstra/elm-atomist-rugs-atom-plugin
 |Eclipse|-|
 |Emacs|Early Stages|Emacs major mode for the Rug language|https://github.com/atomist/rug-emacs-mode
 |VI|-|
