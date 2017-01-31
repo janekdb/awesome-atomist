@@ -36,6 +36,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
   * [Atomist: Meet TypeScript](https://medium.com/the-composition/atomist-meet-typescript-2f2e16251d4f#.6sy4v0zd6) - Introduction of writing Rugs using [TypeScript](https://www.typescriptlang.org/).
   * [Automating Our Development Flow With Atomist](https://medium.com/the-composition/automating-our-development-flow-with-atomist-6b0ec73348b6#.t02n4y28d) - Introduction to automating development flows, e.g., build, test, & deploy, with Rug.
   * [Rugs on the Command Line](https://medium.com/the-composition/rugs-on-the-command-line-eca46492db09#.ogvgfrxvf) - Tutorial for using the [Rug CLI](https://github.com/atomist/rug-cli) to run Rugs.
+  * [Upgrading to Spring Boot 1.4.4 with Rug](https://medium.com/the-composition/upgrading-to-spring-boot-1-4-4-with-rug-ba00c62c487e#.eujyp2x16) - Walkthough showing how to create a Rug to upgrade SpringBoot and then use an Executor to apply this across a collection of projects
 * [Using Rug with Elm](http://blog.jessitron.com/2016/12/using-rug-with-elm.html) - Using Rugs to automate the language tutorial process, in this case [Elm](http://elm-lang.org/).
 * [Today’s Rug: maven executable jar](http://blog.jessitron.com/2017/01/todays-rug-maven-executable-jar.html) - Quick walk through of creating your own Rug editor to solve an infrequent problem once and for all.
 * [Evolucionando Código con Rug](http://blog.eddumelendez.me/2017/01/evolucionando-codigo-rug/) - Code that writes code
