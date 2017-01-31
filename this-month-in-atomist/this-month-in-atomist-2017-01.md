@@ -76,3 +76,10 @@ http://docs.atomist.com/quick-starts/rug-typescript/
 ### Atomism of the day: Why, why, oh why????
 
 ![Atomism of the day](images/atomism-of-the-day-3.png)
+
+### HashiCorp Tools Integration Chat
+
+Interest raised in integrating with HashiCorp tool,
+
+https://twitter.com/jen20/status/826108751065337857
+
