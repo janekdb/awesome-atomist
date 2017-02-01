@@ -46,7 +46,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 # Community
 
-* [Slack: Atomist Community](https://atomist-community.slack.com/) - Slack for Atomist Community
+* [Slack: Atomist Community](https://atomist-community.slack.com/) - Slack for Atomist Community - [![Slack Status](https://join.atomist.com/badge.svg)](https://join.atomist.com/)
   * [Clojure](https://atomist-community.slack.com/messages/rug-clojure/) - Atomist support for Clojure
   * [Elm](https://atomist-community.slack.com/messages/rug-elm/) - Atomist support for Elm
   * [Go](https://atomist-community.slack.com/messages/rug-go/) - Atomist support for Go
