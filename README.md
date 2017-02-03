@@ -38,6 +38,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
   * [Rugs on the Command Line](https://medium.com/the-composition/rugs-on-the-command-line-eca46492db09#.ogvgfrxvf) - Tutorial for using the [Rug CLI](https://github.com/atomist/rug-cli) to run Rugs.
   * [Upgrading to Spring Boot 1.4.4 with Rug](https://medium.com/the-composition/upgrading-to-spring-boot-1-4-4-with-rug-ba00c62c487e#.eujyp2x16) - Walkthough showing how to create a Rug to upgrade SpringBoot and then use an Executor to apply this across a collection of projects
   * [Write your Rugs in Python](https://medium.com/the-composition/write-your-rugs-in-python-f10d258e0e2b#.ri2eisoft) - Rug authoring in Python using JavaScripthon to transpile to ECMAScript 5 (the Atomist lingua franca)
+  * [Creating Rugs on the Command Line](https://medium.com/@dooling/5ec28042be77#.g5d807a3d) - Creating, developing, and testing your own Rugs using the Rug CLI
 
 * [Using Rug with Elm](http://blog.jessitron.com/2016/12/using-rug-with-elm.html) - Using Rugs to automate the language tutorial process, in this case [Elm](http://elm-lang.org/).
 * [Today’s Rug: maven executable jar](http://blog.jessitron.com/2017/01/todays-rug-maven-executable-jar.html) - Quick walk through of creating your own Rug editor to solve an infrequent problem once and for all.
