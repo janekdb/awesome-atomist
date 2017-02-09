@@ -80,6 +80,8 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 * [HelloWorld Microservices with Atomist](https://github.com/atomist-bot) - atomist-bot commits linking to HelloWorld Microservice examples using SpringBoot (for now). 
 * [Neo4j with Atomist](https://github.com/neo4j-examples/atomist-spring-neo4j) - Example Project demonstrating Atomist Editors for Spring Boot with Neo4j
 * [Upgrading to JUnit 5](https://github.com/eddumelendez/rug-demo) - Demo project uses two Rugs to update Maven POMs and Java source code to JUnit 5.
+* [Upgrading ScalaTest Assertions](https://github.com/atomist/rug/pull/302) - PR from Atomist upgrading unit test assertions to type safe idiom.
+  * [UpgradeScalaTestAssertions.ts](https://github.com/atomist-rugs/scala-editors/blob/master/.atomist/editors/UpgradeScalaTestAssertions.ts) - This is the TypeScript code that comprises the editor
 
 # Videos
 
