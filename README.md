@@ -64,6 +64,9 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 # Meetups
 
+## User Groups Slack Channel
+ * [User Groups Slack Channel](https://atomist-community.slack.com/messages/user-groups/details/) User Groups Slack Channel
+ 
 ## United Kingdom
 * [Rug RUG, The London Atomist Rug User Group](https://www.meetup.com/Rug-Rug-The-London-Atomist-Rug-User-Group/) - The Original Atomist Meetup
 
