@@ -47,6 +47,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 # Community
 
+* [Atomist Alpha Programme](https://atomist.typeform.com/to/MseQBs) - Join the Alpha programme if interested in using Atomist Bot on your own Slack
 * [Slack: Atomist Community](https://atomist-community.slack.com/) - Slack for Atomist Community - [![Slack Status](https://join.atomist.com/badge.svg)](https://join.atomist.com/)
   * [Clojure](https://atomist-community.slack.com/messages/rug-clojure/) - Atomist support for Clojure
   * [Elm](https://atomist-community.slack.com/messages/rug-elm/) - Atomist support for Elm
