@@ -162,7 +162,7 @@ TODO: If you are reading this and have information please provide an edit to thi
 |Name | Status | Description |Further Information and Link
 |-----|-------------|--------|----------------------------
 |IntelliJ IDEA|-|
-|Atom|Pre-release|Mentioned on Slack: https://atomist-community.slack.com/archives/general/p1485340978000655
+|Atom|Pre-publication|A Rug language package for the Atom editor|https://github.com/atomist/language-rug
 |Atom|-|An Atom plugin for running Elm Atomist Rugs|https://github.com/mbylstra/elm-atomist-rugs-atom-plugin
 |Eclipse|-|
 |Emacs|Early Stages|Emacs major mode for the Rug language|https://github.com/atomist/rug-emacs-mode
