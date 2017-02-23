@@ -14,3 +14,4 @@ It became possible to start a REPL with this commit: https://github.com/atomist/
 
 https://github.com/atomist/rug/issues/364
 
+![Adieu, Bon Voyage, Sayonara, Zàijiàn](images/farewell-DSL.png)
