@@ -159,6 +159,8 @@ Super cool to see the workflow all within Slack with history.
 
 TODO: If you are reading this and have information please provide an edit to this table
 
+NOTE: Now the Rug DSL is being superceeded by TypeScript this table will have Rug DSL only tools removed at some point.
+
 |Name | Status | Description |Further Information and Link
 |-----|-------------|--------|----------------------------
 |IntelliJ IDEA|-|
