@@ -177,11 +177,11 @@ TODO: If you are reading this and have information please provide an edit to thi
 |Name | Status | Description |Further Information and Link
 |-----|-------------|--------|----------------------------
 |GitHub|Generally Available
-|GitHub Enterprise|???|
-|Bitbucket|Investigating|
+|GitHub Enterprise|n/a|
+|GitLab|n/a|
+|Bitbucket|Atomist Team Investigating|
 |TeamCity|Mentioned on Slack|https://atomist-community.slack.com/archives/announce/p1485342173000135
-|GitLab|???
-|Team Services|???
+|Team Services|n/a
 
 ### Other Tools
 
