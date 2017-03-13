@@ -79,7 +79,7 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 * [Quick Starts](http://docs.atomist.com/quick-starts/) - Atomist Quick Starts
 
-** [Developing Rugs](http://docs.atomist.com/user-guide/interfaces/cli/developing-rugs/) - Develop and test your own Rugs
+  * [Developing Rugs](http://docs.atomist.com/user-guide/interfaces/cli/developing-rugs/) - Develop and test your own Rugs
 
 # Code
 
