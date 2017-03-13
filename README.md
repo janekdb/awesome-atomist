@@ -79,6 +79,8 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 
 * [Quick Starts](http://docs.atomist.com/quick-starts/) - Atomist Quick Starts
 
+** [Developing Rugs](http://docs.atomist.com/user-guide/interfaces/cli/developing-rugs/) - Develop and test your own Rugs
+
 # Code
 
 * [HelloWorld Microservices with Atomist](https://github.com/atomist-bot) - atomist-bot commits linking to HelloWorld Microservice examples using SpringBoot (for now). 
