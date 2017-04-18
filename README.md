@@ -18,11 +18,12 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 8. [Presentations](#presentations)
 9. [Courses and Tutorials](#courses-and-tutorials)
 10. [Books](#books)
-11. [Templates and Editors](#templates-and-editors)
-12. [Repository Support](#repository-support)
-13. [Tooling](#tooling)
-14. [Resources](#resources)
-15. [Misc](#misc)
+11. [Handlers](#handlers)
+12. [Templates and Editors](#templates-and-editors)
+13. [Repository Support](#repository-support)
+14. [Tooling](#tooling)
+15. [Resources](#resources)
+16. [Misc](#misc)
 
 # Articles
 
@@ -119,6 +120,12 @@ Super cool to see the workflow all within Slack with history.
 * [Atomist in Action - Manning](https://www.manning.com/books/atomist-in-action) - In anticipation
 * [Professional Atomist - Wrox](http://www.wrox.com/WileyCDA/Section/id-WROX_SEARCH_RESULT.html?query=Professional%20Atomist) - In anticipation
 * [Learning Atomist - O'Reilly](https://ssearch.oreilly.com/?q=learning+atomist) - In anticipation
+
+# Handlers
+
+* [Atomist Rugs](https://github.com/atomist-rugs)
+
+TODO: Expand with each repo and list each command.
 
 # Templates and Editors
 
