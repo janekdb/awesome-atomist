@@ -125,6 +125,18 @@ Super cool to see the workflow all within Slack with history.
 
 * [Atomist Rugs](https://github.com/atomist-rugs)
 
+| Project | Description
+| --- | ---
+| [travis-rugs](https://github.com/atomist/travis-rugs) | Atomist Rug handlers for Travis CI
+| [kubernetes-rugs](https://github.com/atomist/kubernetes-rugs) | Atomist home of Rugs for Kubernetes integration
+| [aws-rugs](https://github.com/atomist/aws-rugs) | Atomist Rugs integrating with Amazon Web Services
+| [rug-rugs](https://github.com/atomist/rug-rugs) | Atomist Rugs for Rug projects
+| [spring-rugs](https://github.com/atomist/spring-rugs) | Atomist project generator for a new Spring Boot Rest Service
+| [jenkins-rugs](https://github.com/atomist/jenkins-rugs) | Home of the Atomist Rugs for Jenkins
+| [github-rugs](https://github.com/atomist/github-rugs) | Atomist Rug handlers for GitHub
+| [circle-rugs](https://github.com/atomist/circle-rugs) | Atomist Rugs for integrating Circle CI
+
+TODO: Since spring-rugs contains a generator maybe re-org this section which is titled "Handlers"
 TODO: Expand with each repo and list each command.
 
 # Templates and Editors
