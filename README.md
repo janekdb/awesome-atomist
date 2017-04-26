@@ -120,6 +120,7 @@ Super cool to see the workflow all within Slack with history.
 * [Atomist in Action - Manning](https://www.manning.com/books/atomist-in-action) - In anticipation
 * [Professional Atomist - Wrox](http://www.wrox.com/WileyCDA/Section/id-WROX_SEARCH_RESULT.html?query=Professional%20Atomist) - In anticipation
 * [Learning Atomist - O'Reilly](https://ssearch.oreilly.com/?q=learning+atomist) - In anticipation
+* [Taming Automaton with Atomist - Hands On! - Packt](https://www.packtpub.com/all?search=Taming+Automaton+with+Atomist+-+Hands+On!&type_list%5Bbooks%5D=books&type_list%5Bvideos%5D=videos&offset=&rows=&sort=)
 
 # Handlers
 
