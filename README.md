@@ -138,6 +138,12 @@ Super cool to see the workflow all within Slack with history.
 | [github-rugs](https://github.com/atomist/github-rugs) | Atomist Rug handlers for GitHub
 | [circle-rugs](https://github.com/atomist/circle-rugs) | Atomist Rugs for integrating Circle CI
 
+## Community Rugs
+
+| Project | Description
+| --- | ---
+| [aem-rugs](https://github.com/justinedelson/aem-rugs) | Adobe Experience Manager Rugs
+
 TODO: Since spring-rugs contains a generator maybe re-org this section which is titled "Handlers"
 TODO: Expand with each repo and list each command.
 
