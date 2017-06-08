@@ -105,6 +105,10 @@ Super cool to see the workflow all within Slack with history.
 * [Jessica Kerr - Web Programming without Errors, and Coding without Typing](https://youtu.be/yFN8Y0Aoflw) - From CodeMesh 2016
 * [Understand, Automate, Collaborate for Development Speed with Microservices](https://youtu.be/61ym_VES6qg) - Russ Miles interleaves Atomist with a state-of-the-microservices themed presentation.
 
+## Video Collections
+
+* [InfoQ Presentations > Atomist](https://www.infoq.com/presentations/atomist) - Included _Automating at a Higher Level with Atomist_ from Philly ETE 2017
+
 # Presentations
 
 * [Fries and a ChatOps with JackieBigShots](varia/tea-and-a-chatops-with-jackiebigshots/full-atomist-chatops-session.md) - Step by step request and response microservice creation and Dockerization modification from Atomist Slack team.
