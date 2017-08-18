@@ -15,15 +15,16 @@ Contributions most welcome. See (https://github.com/sindresorhus/awesome) for co
 5. [Guides](#guides)
 6. [Code](#code)
 7. [Videos](#videos)
-8. [Presentations](#presentations)
-9. [Courses and Tutorials](#courses-and-tutorials)
-10. [Books](#books)
-11. [Handlers](#handlers)
-12. [Templates and Editors](#templates-and-editors)
-13. [Repository Support](#repository-support)
-14. [Tooling](#tooling)
-15. [Resources](#resources)
-16. [Misc](#misc)
+8. [Podcasts](#podcasts)
+9. [Presentations](#presentations)
+10. [Courses and Tutorials](#courses-and-tutorials)
+11. [Books](#books)
+12. [Handlers](#handlers)
+13. [Templates and Editors](#templates-and-editors)
+14. [Repository Support](#repository-support)
+15. [Tooling](#tooling)
+16. [Resources](#resources)
+17. [Misc](#misc)
 
 # Articles
 
@@ -108,6 +109,10 @@ Super cool to see the workflow all within Slack with history.
 ## Video Collections
 
 * [InfoQ Presentations > Atomist](https://www.infoq.com/presentations/atomist) - Included _Automating at a Higher Level with Atomist_ from Philly ETE 2017
+
+# Podcasts
+
+* [InfoQ Podcasts](https://www.infoq.com/podcasts/jessica-kerr) - Jessica Kerr on Productivity, Slack Chatbots, Yak Shaving, & Why Diversity Matters for Innovation
 
 # Presentations
 
